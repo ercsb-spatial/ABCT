@@ -94,9 +94,9 @@ obj <- FindMalignantCells(
 )
 ```
 <p align="center">
-  <img src="images/1_malignant_anchor.png" width="30%" />
-  <img src="images/1_malignant_dim.png" width="30%" />
-  <img src="images/1_malignant_image.png" width="30%" />
+  <img src="../images/1_malignant_anchor.png" width="30%" />
+  <img src="../images/1_malignant_dim.png" width="30%" />
+  <img src="../images/1_malignant_image.png" width="30%" />
 </p>
 
 
@@ -123,9 +123,9 @@ subobj <- RunABCT(
 )
 ```
 <p align="center">
-  <img src="images/2_abct_anchor.png" width="30%" />
-  <img src="images/2_abct_dim.png" width="30%" />
-  <img src="images/2_abct_image.png" width="30%" />
+  <img src="../images/2_abct_anchor.png" width="30%" />
+  <img src="../images/2_abct_dim.png" width="30%" />
+  <img src="../images/2_abct_image.png" width="30%" />
 </p>
 
 
