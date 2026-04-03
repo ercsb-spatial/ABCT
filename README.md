@@ -115,7 +115,7 @@ subobj <- RunABCT(
   method = "quantile",
   use_spatial = TRUE,
   M = 1,
-  lambda = 0.2,
+  lambda = 0.1,
   dimx = "x_global_px",
   dimy = "y_global_px",
   smooth_reduction = "spatial_pca",
